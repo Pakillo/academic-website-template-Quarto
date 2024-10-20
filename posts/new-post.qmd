@@ -1,0 +1,10 @@
+---
+title: "The value of computational ecology"
+description: "Some thoughts about it"
+author: "John Doe"
+date: "2024-10-20"
+categories:
+  - computational
+---
+
+![](../projects/code.jpg)

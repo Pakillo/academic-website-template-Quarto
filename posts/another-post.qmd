@@ -1,0 +1,10 @@
+---
+title: "The value of contemplative ecology"
+description: "Some thoughts about it"
+author: "John Doe"
+date: "2024-10-21"
+categories:
+  - contemplative
+---
+
+![](../projects/contemplation.jpg)

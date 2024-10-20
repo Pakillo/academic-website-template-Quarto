@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  categories: false
+---
+
+
+

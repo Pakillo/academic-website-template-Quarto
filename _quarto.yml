@@ -1,19 +1,65 @@
 project:
   type: website
+  output-dir: docs
+
 
 website:
-  title: "academic-website-template-Quarto"
+  title: "My website"
+  description: "I am a scientist"
+  site-url: https://example.com
+  repo-url: "https://github.com/"
+  # favicon: logo.png
+  twitter-card: true
+  #   creator: "@handle"
+  #   site: "@handle"
+  open-graph: true
+  # google-analytics:
+  #   tracking-id: "UA-XXXXXXXX"
+  #   anonymize-ip: true
+  # cookie-consent: true
+
+
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Projects.qmd
+      - Publications.qmd
+      - Blog.qmd
+
+      # - icon: twitter
+      #   href: https://twitter.com
+      - icon: mastodon
+        href: https://joinmastodon.org
+      - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+        href: https://bsky.app
+      - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
+        href: https://x.com
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com/
+      - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
+        href: https://scholar.google.com
+      - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
+        href: https://orcid.org/
+      - icon: rss
+        href: index.xml
+
+  page-footer:
+    background: light
+    right: "Made with Quarto"
+  # back-to-top-navigation: true
+
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+    toc: false
+
+execute:
+  freeze: auto  # re-render only when source changes
 
 
 

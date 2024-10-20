@@ -1,0 +1,10 @@
+---
+title: "Computational Ecology"
+image: code.jpg
+# categories: 
+#   - ecoinformatics
+---
+
+A computational approach to tough questions in ecology
+
+![](code.jpg)

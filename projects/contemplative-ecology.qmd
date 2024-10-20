@@ -1,0 +1,10 @@
+---
+title: "Contemplative Ecology"
+image: contemplation.jpg
+# categories: 
+#   - contemplation
+---
+
+Learning about the natural world just by contemplating it
+
+![](contemplation.jpg)

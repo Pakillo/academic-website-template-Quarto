@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/Projects.html",
+    "items": [
+      "/projects/computational-ecology.html",
+      "/projects/contemplative-ecology.html"
+    ]
+  },
+  {
+    "listing": "/Blog.html",
+    "items": [
+      "/posts/another-post.html",
+      "/posts/new-post.html"
+    ]
+  }
+]

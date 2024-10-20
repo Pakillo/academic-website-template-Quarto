@@ -1,0 +1,15 @@
+---
+title: "Publications"
+toc: true
+---
+
+### Articles
+
+- Quintero, Rodríguez‐Sánchez, Jordano (2022) [Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species](https://doi.org/10.1111/ele.14141). *Ecology Letters* 26 (1): 132-146. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14141)]
+
+- Rodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) [Ciencia reproducible: ¿qué, por qué, cómo?](https://doi.org/10.7818/ECOS.2016.25-2.11). *Ecosistemas* 25 (2): 83-92
+
+### Book chapters
+
+
+
