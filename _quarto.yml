@@ -6,8 +6,8 @@ project:
 website:
   title: "My website"
   description: "I am a scientist"
-  site-url: https://example.com
-  repo-url: "https://github.com/"
+  site-url: https://pakillo.github.io/academic-website-template-Quarto
+  repo-url: "https://github.com/Pakillo/academic-website-template-Quarto"
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
@@ -27,8 +27,6 @@ website:
       - Publications.qmd
       - Blog.qmd
 
-      # - icon: twitter
-      #   href: https://twitter.com
       - icon: mastodon
         href: https://joinmastodon.org
       - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
@@ -45,6 +43,8 @@ website:
         href: https://orcid.org/
       - icon: rss
         href: index.xml
+      # - icon: twitter
+      #   href: https://twitter.com
 
   page-footer:
     background: light
