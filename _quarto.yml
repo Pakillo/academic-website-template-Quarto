@@ -7,7 +7,7 @@ website:
   title: "My website"
   description: "I am a scientist"
   site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: "https://github.com/Pakillo/academic-website-template-Quarto"
+  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
@@ -27,20 +27,20 @@ website:
       - Publications.qmd
       - Blog.qmd
 
-      - icon: mastodon
-        href: https://joinmastodon.org
-      - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-        href: https://bsky.app
-      - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-        href: https://x.com
-      - icon: github
-        href: https://github.com
-      - icon: linkedin
-        href: https://linkedin.com/
-      - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-        href: https://scholar.google.com
-      - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-        href: https://orcid.org/
+      # - icon: mastodon
+      #   href: https://joinmastodon.org
+      # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+      #   href: https://bsky.app
+      # - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
+      #   href: https://x.com
+      # - icon: github
+      #   href: https://github.com
+      # - icon: linkedin
+      #   href: https://linkedin.com/
+      # - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
+      #   href: https://scholar.google.com
+      # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
+      #   href: https://orcid.org/
       - icon: rss
         href: index.xml
       # - icon: twitter

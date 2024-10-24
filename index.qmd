@@ -5,8 +5,22 @@ about:
   image: avatar.jpg
   links:
     - icon: envelope
-      text: email
+      # text: email
       href: "mailto: test@example.com"
+    - icon: mastodon
+      href: https://joinmastodon.org
+    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
+      href: https://bsky.app
+    - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
+      href: https://x.com
+    - icon: github
+      href: https://github.com
+    - icon: linkedin
+      href: https://linkedin.com/
+    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
+      href: https://scholar.google.com
+    - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
+      href: https://orcid.org/
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
